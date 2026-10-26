@@ -1,0 +1,1 @@
+"""GhostTrace core package."""
